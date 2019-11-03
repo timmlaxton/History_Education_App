@@ -7,7 +7,7 @@ interactive timeline and map which provide a narrative account of each story, as
 Group project for Codeclan, built over 7 days
 
 
-A full stack web app with a Vue.js / JavaScript frontend, with an Express.js and MongoDB backen
+A full stack web app with a Vue.js / JavaScript frontend, with an Express.js and MongoDB backend.
 
 ![](https://github.com/timmlaxton/History_Education_App/blob/master/ScreenShots/Home%20Page.png?raw=true)
 
