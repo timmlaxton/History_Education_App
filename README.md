@@ -7,6 +7,8 @@ interactive timeline and map which provide a narrative account of each story, as
 
 This app was built using Javascript, Vue and MongoDB
 
+Homepage
+
 ![](https://github.com/timmlaxton/History_Education_App/blob/master/ScreenShots/Home%20Page.png?raw=true)
 
 
