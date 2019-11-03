@@ -34,15 +34,4 @@ The BBC are looking to improve their online offering of educational content by d
 ### Custom Timeline
 ![](https://github.com/timmlaxton/History_Education_App/blob/master/ScreenShots/Custom%20Timeline.png?raw=true)
 
-# Installation
 
-cd server
-npm i
-mongod
-npm run seeds
-npm run server:dev
-
-cd ..
-cd client
-npm i
-npm run serve
